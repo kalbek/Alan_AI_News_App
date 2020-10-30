@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@alan-ai/alan-sdk-web": "^1.7.0"
+  }
+}
